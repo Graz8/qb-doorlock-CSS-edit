@@ -17,6 +17,16 @@
 ![image](https://user-images.githubusercontent.com/81651125/165208711-5e57bf5a-db33-4bc9-b511-6220955f4021.png)
 
 --------------------------------------------------------------------------
+# INSTALL
+
+**Download the script and put it in the [qb] directory.
+Import qb-phone.sql in your database**
+
+
+
+
+
+
 # license 
 **QBCore Framework**
 
