@@ -1,4 +1,4 @@
-#qb-doorlock
+# qb-doorlock
 --------------------------------------------------------------------------
 This is a edit of the qb-doorlock script its made to look more like nopixels doorlock.  
 
