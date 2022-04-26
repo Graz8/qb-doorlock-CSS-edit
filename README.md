@@ -19,9 +19,9 @@
 --------------------------------------------------------------------------
 # INSTALL
 
-**Download the script and put it in the [qb] directory.
+**Download the script and put it in the [qb] directory.**
 
-  Import qb-dootlock.sql in your database**
+**Import qb-dootlock.sql in your database**
 
 
 
