@@ -20,6 +20,7 @@
 # INSTALL
 
 **Download the script and put it in the [qb] directory.
+
 Import qb-phone.sql in your database**
 
 
