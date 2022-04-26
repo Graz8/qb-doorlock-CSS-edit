@@ -1,0 +1,47 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.textInfo {
+    position: absolute;
+    top: 50%;
+    float: left;
+    color: rgb(0, 0, 0);
+}
+
+#doorlock-container {
+    position: absolute;
+    flex-wrap: wrap;
+    top: 45%;
+    padding: 1.2em;
+    width: fit-content;
+    color: rgb(255, 255, 255);
+    border-radius: 0.5em;
+    left: -15%;
+}
+
+.slide_in {
+    animation: slide-in 1s forwards;
+}
+
+.slide_out {
+    animation: slide-out 1s forwards;
+}
+
+@keyframes slide-in {
+    0% {
+        left: -15%;
+    }
+    100% {
+        left: 0.5%;
+    }
+}
+
+@keyframes slide-out {
+    0% {
+        left: 0.5%;
+    }
+    100% {
+        left: -15%;
+    }
+}
