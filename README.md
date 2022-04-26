@@ -5,8 +5,8 @@
 **It is very simple and was made in about 3 miniutes.**
 
 
-# Example
 --------------------------------------------------------------------------
+# Example
 
 **This is what the door looks like locked**
 ![image](https://user-images.githubusercontent.com/81651125/165208585-fa6c055e-c2a0-4d99-a469-e371c9919651.png)
