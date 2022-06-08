@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Doorlock system for the QBCore Framework a very simple CSS edit to look like nopixels doorlock'
+description 'Doorlock system for the QBCore Framework a very simple CSS edit. makes more flush design of the deafault doorlock'
 version '2.0.0'
 
 ui_page 'html/index.html'
